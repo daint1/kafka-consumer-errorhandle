@@ -1,10 +1,10 @@
-package com.example.blockingmechanism;
+package aibles.poc.nonblockingmechanism;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class BlockingMechanismApplicationTests {
+class NonBlockingMechanismApplicationTests {
 
     @Test
     void contextLoads() {

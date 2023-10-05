@@ -1,13 +1,13 @@
-package com.example.nonblockingmechanism;
+package aibles.poc.blockingmechanism;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class NonBlockingMechanismApplication {
+public class BlockingMechanismApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(NonBlockingMechanismApplication.class, args);
+        SpringApplication.run(BlockingMechanismApplication.class, args);
     }
 
 }
